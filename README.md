@@ -138,6 +138,7 @@ Nodules in CT Scans." Scientific reports 6 (2016).
 - Ashburner, M.; Ball, C. A.; Blake, J. A.; Botstein, D.; Butler, H.; Cherry, J. M.; Davis, A. P.; Dolinski, K.; Dwight, S. S.; Eppig, J. T.; Harris, M. A.; Hill, D. P.; Issel-Tarver, L.; Kasarskis, A.; Lewis, S.; Matese, J. C.; Richardson, J. E.; Ringwald, M.; Rubin, G. M.; Sherlock, G. Gene Ontology: Tool for the Unification of Biology. Nat. Genet. 2000, 25 (1), 25−29.
 - Papadatos, G.; Davies, M.; Dedman, N.; Chambers, J.; Gaulton, A.; Siddle, J.; Koks, R.; Irvine, S. A.; Pettersson, J.; Goncharoff, N.; Hersey, A.; Overington, J. P. SureChEMBL: A Large-Scale, Chemically Annotated Patent Document Database. Nucleic Acids Res. 2016, 44, D1220 .
 - Liu Y, Li C, Shen S, et al. Discovery of regulatory noncoding variants in individual cancer genomes by using cis-X [published online ahead of print, 2020 Jul 6]. Nat Genet. 2020;10.1038/s41588-020-0659-5. doi:10.1038/s41588-020-0659-5
+- Esteva A, Robicquet A, Ramsundar B, et al. A guide to deep learning in healthcare. Nat Med. 2019;25(1):24-29. doi:10.1038/s41591-018-0316-z
 
 ## Dataset
 
